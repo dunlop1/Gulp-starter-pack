@@ -1,0 +1,5 @@
+node -v //check node js version
+npm -v //check npm version
+npm install gulp-cli -g // install gulp cli globaly for proper work of gulp
+npm init // init npm and project with specific name and package libraries and dependencies
+nmp install --save-dev gulp gulp-sass browser-sync // instaling tools that i want to use in my enviroment
